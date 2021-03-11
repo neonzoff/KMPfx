@@ -1,0 +1,13 @@
+//aabbaabaabaabbaaabaabaabaabaabbaabb
+//aabaabaabaabbabbabbaabaab
+
+//abbaabbab
+//000112342
+
+//aabaab
+//010123
+
+//abbaabbab
+//000112342
+
+aabbaabaabaabbaaabaabaabaabaabbaabb
